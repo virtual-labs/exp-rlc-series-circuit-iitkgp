@@ -17,4 +17,4 @@ The gain and phase response against frequency will be typical of second order sy
 
 
 </div>
-
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
