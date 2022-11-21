@@ -10,3 +10,4 @@
 - Click on 'GainPlot' button to see the frequency response plot(Gain(dB)vs.Frequency(Hz))& click on the 'Phaseplot'button to see the corresponding phase response.Click on Clear button to clear datas.
 - Switch off the oscilloscope.Change 'R' value by increasing the rheostat to increase the value of ζ and observe different results for ζ = (0.1,0.2,0.3,0.5,0.7).
 - From the Gain plots the maximum gain,-3dB frequency can be observed for different ζ .
+- <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
