@@ -2,46 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "How many joints are there in the wrist of the Movemaster RM-501 robot?",
+      "question": "A 12 Ω resister,a 40uF capacitor and an 8mH coil are in series across an ac source.The resonant frequency is,",
       "answers": {
-        "a": "2",
-        "b": "4",
-        "c": "3",
-        "d": "1"
+        "a": "28.1 Hz",
+        "b": "2810 Hz",
+        "c": "281 Hz",
+        "d": "10 KHz"
       },
       "explanations": {
-        "a": "You have choosen option (a). The answer is correct",
-        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
-        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
-        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (c).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (c).",
+        "c": "You have choosen option (c). The answer is correct",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (c)."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "What is the Px positional value of the Movemaster robot in a configuration [60, -45, -47, 0, 0]?",
+      "question": "The impedance at resonant frequency of a series RLC circuit with L=20mH, C=0.02uF and R=90 Ω",
       "answers": {
-        "a": "182.282 cm",
-        "b": "320.917 cm",
-        "c": "563.377 cm",
-        "d": "-120.219 cm"
-      },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is correct",
-        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
-        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
-        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "What is the range of wrist Roll?",
-      "answers": {
-        "a": " \\pm 90",
-        "b": " \\pm 140 " ,
-        "c": " \\pm 120" ,
-        "d": " \\pm 180 " 
+        "a": "0 Ω",
+        "b": "20 Ω",
+        "c": "40 Ω",
+        "d": "90 Ω"
       },
       "explanations": {
         "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
@@ -50,6 +33,57 @@
         "d": "You have choosen option (d). The answer is correct."
       },
       "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a series RLC circuit the phase difference between the current in the capacitor and in the resistor(in Degree) is,",
+      "answers": {
+        "a": "90",
+        "b": "0" ,
+        "c": "180" ,
+        "d": "None" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is Correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a series RLC circuit the phase difference between the current in the circuit and in the voltage across the resistor(in Degree) is,",
+      "answers": {
+        "a": "90",
+        "b": "0" ,
+        "c": "180" ,
+        "d": "360" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is Correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a series RLC circuit the phase difference between the current in the circuit and in the voltage across the inductor(in Degree) is,",
+      "answers": {
+        "a": "0",
+        "b": "90" ,
+        "c": "180" ,
+        "d": "45" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is Correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

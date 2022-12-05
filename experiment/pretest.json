@@ -4,10 +4,10 @@
     {
       "question": "If the value of C in a series RLC circuit is decreased,the resonant frequency,",
       "answers": {
-        "a": "`Has no affect`",
-        "b": "`Increases`",
-        "c": "`Is zero`",
-        "d": "`Decreases`"
+        "a": "Has no affect",
+        "b": "Increases",
+        "c": "Is zero",
+        "d": "Decreases"
       },
       "explanations": {
         "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
@@ -21,8 +21,8 @@
     {
       "question": "A series resonant circuit is commonly called a tank circuit",
       "answers": {
-        "a": "`False`",
-        "b": "`True`"
+        "a": "False",
+        "b": "True"
       },
       "explanations": {
         "a": "You have choosen option (a). The answer is correct.",
