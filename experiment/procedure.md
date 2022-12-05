@@ -1,5 +1,10 @@
 ## Procedure
 
+<div align="center">
+<img src="images/Mainckt.png" />
+ 
+  ***Figure 1:Circuit diagram***
+</div>
 - Connect the circuit elements as mentioned below 1-3 ,4-5 ,8-6, 6-10, 9-11, 2-7, 7-9(ex:-Drag from 1 and click on 3.)
 - 3 volt p-p sinusoidal voltage is applied at the input.Put R=200Ω initially ,L=0.1H, C=0.1uF.
 - Switch on the oscilloscope by clicking "ON" button & click twice the Sine wave button for input signal & click on the"Output" button to observe the output.Channel & Channel2 button shows the input & output signals respectively. Dual, shows both of them.
