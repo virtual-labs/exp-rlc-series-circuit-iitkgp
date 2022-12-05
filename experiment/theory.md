@@ -2,7 +2,7 @@
 
 ***Experimental verification of frequency response of R-L-C series Circuit*** Series RLC circuits consist of a resistance, a capacitance and an inductance connected in series across an alternating supply. Series RLC circuits are classed as second-order circuits because they contain two energy storage elements, an inductance L and a capacitance C. Consider the RLC circuit below. In this experiment a circuit(Fig 1) will be provided. A p-p sinusoidal signal of amplitude 3V will be applied to it and its frequency response would be verified .
 <div align="center">
-<img src="images/Mainckt.png" />
+<img src="images/Mainckt.png" /> <br>
  
   ***Figure 1:Circuit diagram***
 </div>
