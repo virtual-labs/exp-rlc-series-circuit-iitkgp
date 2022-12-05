@@ -4,7 +4,7 @@
 <div align="center">
 <img src="images/Mainckt.png" /> <br>
  
-  ***Figure 1:Circuit diagram***
+***Figure 1:Circuit diagram***
 </div>
 The above R, L, C series circuit forms a second order system.The transfer function of this circuit is given by,
   <div align="center">
