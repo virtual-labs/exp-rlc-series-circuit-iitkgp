@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A 12 Ω resister,a 40uF capacitor and an 8mH coil are in series across an ac source.The resonant frequency is,",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "28.1 Hz",
+        "b": "2810 Hz",
+        "c": "281 Hz",
+        "d": "10 KHz"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (c).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (c).",
+        "c": "You have choosen option (c). The answer is correct",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (c)."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The impedance at resonant frequency of a series RLC circuit with L=20mH, C=0.02uF and R=90 Ω",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0 Ω",
+        "b": "20 Ω",
+        "c": "40 Ω",
+        "d": "90 Ω"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a series RLC circuit the phase difference between the current in the capacitor and in the resistor(in Degree) is,",
+      "answers": {
+        "a": "90",
+        "b": "0" ,
+        "c": "180" ,
+        "d": "None" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is Correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a series RLC circuit the phase difference between the current in the circuit and in the voltage across the resistor(in Degree) is,",
+      "answers": {
+        "a": "90",
+        "b": "0" ,
+        "c": "180" ,
+        "d": "360" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is Correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a series RLC circuit the phase difference between the current in the circuit and in the voltage across the inductor(in Degree) is,",
+      "answers": {
+        "a": "0",
+        "b": "90" ,
+        "c": "180" ,
+        "d": "45" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is Correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
