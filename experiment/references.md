@@ -22,4 +22,4 @@ IIT Madras, , Prof. Nagendra Krishnapura].(https://freevideolectures.com/course/
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
 1 | **Piyali Chattopadhyay** | Developer | Research Engineer | Department of Electrical Engineering | IIT Kharagpur | 
-2 | **Subhasis Mahata** |  AWS Integration Engineer  | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur |
+2 | **Subhasis Mahata** |  AWS Integration Engineer  | Senior Project Scientist | Department of Mechanical Engineering | IIT Kharagpur |
