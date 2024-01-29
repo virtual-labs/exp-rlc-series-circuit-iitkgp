@@ -18,7 +18,7 @@ $$H(s) = \frac{{\omega_n}^2}{s^2 + 2 \zeta \omega_n s + {\omega_n}^2}$$
 The gain and phase response against frequency will be typical of second order system. The expected maximum gain for each &zeta; can be observed from the plot in the experiment. Theoretical expression for obtaining maximum gain is,
 
 $$M_m = \frac{1}{2 \omega \sqrt{1 - \zeta^2}}$$
-Occuring at
+Occuring at,
 
 $$\omega_m = \omega_n \sqrt{1 - 2 \zeta^2}$$
 
