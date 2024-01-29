@@ -7,14 +7,23 @@ Series RLC circuits consist of a resistance, a capacitance and an inductance con
 ***Figure 1:Circuit diagram***
 </div>
 The above R, L, C series circuit forms a second order system.The transfer function of this circuit is given by,
-  <div align="center">
-<img src="images/hpf.png" />
+  <!--<div align="center">
+<img src="images/hpf.png" />-->
 
-The gain and phase response against frequency will be typical of second order system. The expected maximum gain for each ζ can be observed from the plot in the experiment. Theoretical expression for obtaining maximum gain is,
+$$H(s) = \frac{\frac{1}{LC}}{s^2 + (\frac{R}{L}) s + \frac{1}{LC}}$$
 
+Can be compared with the general equation
 
-<div align="center">
-<img src="images/mgf.png" />
+$$H(s) = \frac{{\omega_n}^2}{s^2 + 2 \zeta \omega_n s + {\omega_n}^2}$$
+The gain and phase response against frequency will be typical of second order system. The expected maximum gain for each &zeta; can be observed from the plot in the experiment. Theoretical expression for obtaining maximum gain is,
+
+$$M_m = \frac{1}{2 \omega \sqrt{1 - \zeta^2}}$$
+Occuring at
+
+$$\omega_m = \omega_n \sqrt{1 - 2 \zeta^2}$$
+
+<!--<div align="center">
+<img src="images/mgf.png" />-->
 
 
 </div>
