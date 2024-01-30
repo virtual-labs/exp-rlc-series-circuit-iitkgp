@@ -14,7 +14,7 @@ The above R, L, C series circuit forms a second order system.The transfer functi
  
 can be compared with general equation.
 
-$$H(s) = \frac{{\omega_n}^2}{s^2 + 2 \zeta \omega_n s + {\omega_n}^2} \ where \ \omega_n \ = \frac{1}{\sqrt{LC}}$$
+$$H(s) = \frac{\omega_n^2} {s^2 + 2 \zeta \omega_n s + \omega_n^2} \ where \ \omega_n \ = \frac{1}{\sqrt{LC}}$$
 
 The gain and phase response against frequency will be typical of second order system. The expected maximum gain for each &zeta; can be observed from the plot in the experiment. Theoretical expression for obtaining maximum gain is,
 
