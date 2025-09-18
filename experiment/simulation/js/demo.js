@@ -437,10 +437,12 @@ jsPlumb.ready(function () {
 			
 			  
             alert("RIGHT CONNECTION \n START SIMULATION");
+			document.getElementById('onff').style['pointer-events']="auto";
             }
 			else {
                alert("WRONG CONNECTION");
                 return false;
+				document.getElementById('onff').style['pointer-events']="none";
             }  
 
 
