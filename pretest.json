@@ -1,0 +1,87 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "If the value of C in a series RLC circuit is decreased,the resonant frequency,",
+      "answers": {
+        "a": "Has no affect",
+        "b": "Increases",
+        "c": "Is zero",
+        "d": "Decreases"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A series resonant circuit is commonly called a tank circuit",
+      "answers": {
+        "a": "False",
+        "b": "True"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct.",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a)."
+        
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a series RLC circuit that is operating above resonant frequency,the current,",
+      "answers": {
+        "a": "Is zero",
+        "b": "lags the applied voltage",
+        "c": "Leads the applied voltage",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a series RLC circuit the phase difference between the current in the Inductor and in the resistor (in Degree) is,",
+      "answers": {
+        "a": "90",
+        "b": "0",
+        "c": "180",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a series RLC circuit the phase difference between the current in the capacitor and in the inductor(in Degree) is,",
+      "answers": {
+       "a": "90",
+        "b": "0",
+        "c": "180",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
