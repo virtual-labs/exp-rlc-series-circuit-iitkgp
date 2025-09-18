@@ -5,7 +5,7 @@
  
 **Circuit diagram**
 </div>
-1. Connect the circuit elements as mentioned below 1-3 ,4-5 ,8-6, 6-10, 9-11, 2-7, 7-9(ex:-Drag from 1 and click on 3.)
+1. Connect the circuit elements as mentioned below 1-3 ,4-5 ,8-6, 6-10, 9-11, 2-7, 7-9(ex:-Drag from 1 and click on 3.). Click on 'Check' button. If the alert message shows wrong connection, click on 'Delete' button.
 <br>
 2. 3 volt p-p sinusoidal voltage is applied at the input.Put R=200Ω initially ,L=0.1H, C=0.1uF.
 <br>
@@ -21,7 +21,7 @@
 <br>
 8. Click on 'GainPlot' button to see the frequency response plot(Gain(dB)vs.Frequency(Hz))& click on the 'Phaseplot'button to see the corresponding phase response.Click on Clear button to clear datas.
 <br>
-9. Switch off the oscilloscope.Change 'R' value by increasing the rheostat to increase the value of ζ and observe different results for ζ = (0.1,0.2,0.3,0.5,0.7).
+9. Switch off the oscilloscope. Increase 'R' value through the rheostat (hover the mouse pointer over the green vertical rectangle, its color will change to a darker green. Then drag it to the right.) to increase the value of &#950; and observe different results for damping ratio &#950; = (0.1,0.2,0.3,0.5,0.7).
 <br>
 10. From the Gain plots the maximum gain,-3dB frequency can be observed for different ζ .
 <br>
